@@ -1,9 +1,7 @@
 ## Manuella Cosme
-Hi!
-<br>I’m currently learning HTML5, CSS & Java.
+Hi! I’m currently learning HTML5, CSS & Java.
 
-Olá!
-<br>Estou aprendendo HTML5, CSS & Java.
+Olá! Estou aprendendo HTML5, CSS & Java.
 
 <br>
 
