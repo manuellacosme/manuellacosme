@@ -1,7 +1,8 @@
 ## Manuella Cosme
 Hi! I’m currently learning HTML5, CSS & Java.
-
 Olá! Estou aprendendo HTML5, CSS & Java.
+
+<br>
 
 <div>
   <a href="https://github.com/manuellacosme">
