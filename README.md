@@ -1,7 +1,5 @@
 ## Manuella Cosme
-Hi! 
-<br>
-Olá! 
+Hi! / Olá! 
 
 <br>
 
