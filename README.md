@@ -3,7 +3,7 @@
 
 
 
-#### 🌿 Learning 
+#### 🌿 Learning / Aprendiendo
 
 - HTML5
 - CSS
@@ -14,7 +14,7 @@
 
  <br>
   
-#### 📝 Languages
+#### 📝 Languages / Idiomas
 <div style="display: inline_block">
   <img align="center" alt="Manuella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manuella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
