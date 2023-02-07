@@ -1,6 +1,6 @@
-## Hey! 🍁 
-.
+## Hey! 
 
+<br>
 
 
 #### 📝 Learning
