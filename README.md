@@ -8,7 +8,7 @@
 - HTML5
 - CSS
 - Java
-- Bootsrap
+- Bootstrap
 
 <br>
            
