@@ -7,7 +7,7 @@
 
 - HTML5
 - CSS
-- Java
+- JavaScript
 - Bootstrap
 
 <br>
