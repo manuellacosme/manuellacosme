@@ -8,7 +8,6 @@
 - HTML5
 - CSS
 - JavaScript
-- Bootstrap
 
 <br>
            
